@@ -203,13 +203,3 @@ public class Program
         Console.WriteLine($"Backup restored from {backupFilePath}");
     }
 }
-
-// Funkcje:
-// -Wczytywanie plików zapisu. MW
-// -Wyświetlanie zawartości pliku. MW
-// -Edycja danych KM
-// -Eksport i zapis plików KM
-// -Robienie kopii zapasowej pliku KM
-// -Przywracanie kopii zapasowej pliku KM
-// -Odszyfrowywanie pliku MW
-// -Szyfrowanie pliku MW
