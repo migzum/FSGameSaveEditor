@@ -1,0 +1,17 @@
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\FSGameSaveEditor.exe
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\FSGameSaveEditor.deps.json
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\FSGameSaveEditor.runtimeconfig.json
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\FSGameSaveEditor.dll
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\FSGameSaveEditor.pdb
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.AssemblyInfoInputs.cache
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.AssemblyInfo.cs
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.csproj.CoreCompileInputs.cache
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.dll
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\refint\FSGameSaveEditor.dll
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.pdb
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.genruntimeconfig.cache
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\ref\FSGameSaveEditor.dll
+H:\Projekt\FSGameSaveEditor\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSaveEditor.csproj.AssemblyReference.cache
+H:\Projekt\FSGameSaveEditor\obj\Debug\net8.0\FSGameSa.6F484756.Up2Date
